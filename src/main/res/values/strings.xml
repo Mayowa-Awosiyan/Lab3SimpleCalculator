@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="button_Equal">=</string>
+    <string name="button_Divide">/</string>
+    <string name="button_00">0</string>
+    <string name="button_Multiply">x</string>
+    <string name="button_03">3</string>
+    <string name="button_02">2</string>
+    <string name="button_01">1</string>
+    <string name="button_Minus">-</string>
+    <string name="button_06">6</string>
+    <string name="button_05">5</string>
+    <string name="button_04">4</string>
+    <string name="button_Plus">+</string>
+    <string name="button_09">9</string>
+    <string name="button_08">8</string>
+    <string name="button_07">7</string>
+</resources>
